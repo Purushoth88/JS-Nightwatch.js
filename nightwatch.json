@@ -1,6 +1,5 @@
 {
   "src_folders" : ["tests"],
-  "output_folder" : "reports",
   "page_objects_path" : "",
   "globals_path" : "",
 
